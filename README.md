@@ -18,15 +18,45 @@
 <a href="https://github.com/DroidDump"><img src="./assets/droiddump.png" alt="Droid Dump" height="50" title="Android projects"></a>
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a> -->
 
-
 <p align="center">
+  <style>
+    .flex-container {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    .flex-container img {
+      margin: 10px;
+    }
+  </style>
 
-<a href="https://github.com/Napeno?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Napeno&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Napeno?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Napeno&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Napeno?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=Napeno&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+  <div class="flex-container">
+    <a href="https://github.com/Napeno?tab=repositories#gh-dark-mode-only">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Napeno&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
+      width="48%" alt="@Voko's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/Napeno?tab=repositories#gh-light-mode-only">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Napeno&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
+      width="48%" alt="@Voko's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/Napeno?tab=stars#gh-light-mode-only">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Napeno&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+      width="48%" alt="@Voko's github-readme-streak-stats"/>
+    </a>
+  </div>
 
+  <div class="flex-container">
+    <a href="https://wakatime.com/@Voko">
+      <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">
+    </a>
+    <a href="https://github.com/Napeno?tab=following">
+      <img src="https://img.shields.io/github/stars/Napeno?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars">
+    </a>
+    <a href="https://github.com/Napeno?tab=followers">
+      <img src="https://img.shields.io/github/followers/Napeno?&logoColor=red&style=social" alt="GitHub followers">
+    </a>
+  </div>
 </p>
-
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -46,7 +76,5 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/Napeno?tab=following"><img src="https://img.shields.io/github/stars/Napeno?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/Napeno?tab=followers"><img src="https://img.shields.io/github/followers/Napeno?&logoColor=red&style=social" alt="GitHub followers"></a>
+    
 </p>
