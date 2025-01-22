@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Napeno&theme=dark&hide_border=true"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Napeno&theme=dark)](https://git.io/streak-stats)
 </p>
 
 ### 📈 &nbsp;Activity Graph
