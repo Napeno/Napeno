@@ -55,7 +55,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Napeno&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Napeno&theme=dark&border_radius=4)](https://git.io/streak-stats)
 
 ### 📈 &nbsp;Activity Graph
 
