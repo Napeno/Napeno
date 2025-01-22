@@ -19,18 +19,8 @@
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a> -->
 
 <p align="center">
-  <style>
-    .flex-container {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
-    .flex-container img {
-      margin: 10px;
-    }
-  </style>
 
-  <div class="flex-container">
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
     <a href="https://github.com/Napeno?tab=repositories#gh-dark-mode-only">
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Napeno&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" 
       width="48%" alt="@Voko's github-readme-stats"/>
@@ -43,9 +33,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Napeno&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
       width="48%" alt="@Voko's github-readme-streak-stats"/>
     </a>
-  </div>
-
-  <div class="flex-container">
     <a href="https://wakatime.com/@Voko">
       <img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime">
     </a>
@@ -56,7 +43,15 @@
       <img src="https://img.shields.io/github/followers/Napeno?&logoColor=red&style=social" alt="GitHub followers">
     </a>
   </div>
+
+  <div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 20px;">
+    <a href="https://github.com/pulls?q=is%3Apr+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Napeno&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Napeno&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Napeno&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+  </div>
+  
 </p>
+
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -68,13 +63,3 @@
     </a>
 </p>
 <!-- activity graph heroku-app end -->
-
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Napeno&theme=github&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Napeno&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3ANapeno+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Napeno&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
-</p>
-
-<p align="center">
-    
-</p>
